@@ -1,7 +1,7 @@
 {
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
-    { "source": "/2.imageClick", "destination": "/2.imageClick/index.html" }
-    { "source": "/3.download", "destination": "/3.download/index.html" }
+    { "source": "/2.imageClick", "destination": "./2.imageClick/index.html" }
+    { "source": "/3.download", "destination": "./3.download/index.html" }
   ]
 }
